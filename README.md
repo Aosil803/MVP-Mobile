@@ -4,7 +4,7 @@ Desenvolvedores : Alexandre de Oliveira Silveira 06007233
                   
 ## Sobre o Projeto
 
-Este projeto visa desenvolver uma aplicação para gestão de agendas do Núcleo de Apoio Fiscal (NAF) da Universidade do Feso (Unifeso). A aplicação permite que administradores e usuários comuns possam criar, editar e gerenciar suas agendas de maneira eficiente.
+Este projeto é sobre uma pagina que contem as atrações no circuito Terê - Verde
 
 ## Tecnologias Utilizadas
 
